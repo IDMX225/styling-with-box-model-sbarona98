@@ -5,7 +5,7 @@
   }
   .box-one {
     background-color: red;
-    border: 20px solid purple;
+    border: 0 solid purple;
     border-width: 20px;
     padding: 20px;
     margin: 20px;
@@ -13,7 +13,7 @@
   
   .box-two {
     background-color: green;
-    border: 20px solid yellow;
+    border: 0 solid yellow;
     border width: 20px;
     padding: 20px;
     margin: 20px;
